@@ -2,13 +2,13 @@
 
 I am a small farm town community maths teacher trying to learn programming basics and how to integrate AI in my teaching.  
 What basics?  
-    Using linux as my daily driver. 
-    Using python to understand coding / programming.    
-    Using GitHub and / or Colab to consolidate all this learning.
+-Using linux as my daily driver.  
+-Using python to understand coding / programming.  
+-Using GitHub and / or Colab to consolidate all this learning.
   
 What AI?  
-    Grinding through some Google Training for Educators.  
-    Testing fideltiy and veracity of maths solutions.  
+-Grinding through some Google Training for Educators.  
+-Testing fideltiy and veracity of maths solutions.  
   
 I like long bike rides down the pacific coast, pretending I'm a rock god, roll / role playing games, and am a Constant Reader.  
 
